@@ -70,7 +70,7 @@ TEMPLATES = [
 
 WSGI_APPLICATION = 'HelloWorldSocketServer.wsgi.application'
 
-ASGI_APPLICATION = 'HelloWorldSocketServer.asgi:application'
+ASGI_APPLICATION = 'HelloWorldSocketServer.asgi.application'
 
 
 # Database
