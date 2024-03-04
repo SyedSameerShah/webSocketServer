@@ -23,7 +23,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-ucw*%uml@)of%gis7#dk2vodme0c8yg@!_cpg-vw&2mp$m@9w_'
 
 
-ALLOWED_HOSTS = ['13.235.73.225']
+ALLOWED_HOSTS = ['13.233.134.217']
 
 
 # Application definition
